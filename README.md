@@ -1,6 +1,6 @@
 # ViT_Meta_Analysis
 
-If you find these codes useful to your research, please cite the following papers.
+If you find these codes useful to your research, please star our project and cite the following papers:
 
 [1] Mubonanyikuzo, V., Yan, H., Komolafe, T. E., Zhou L., Wu T., Wang N. (2025), Detection of Alzheimer's Disease in Neuroimages using Vision Transformers: A Systematic Review and Meta-Analysis. Journal of Medical Internet Research, DOI:10.2196/62647.
 
